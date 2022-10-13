@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ExtraBold';
+    src: url('/fonts/bpg-classic-medium-webfont.eot');
+    src: url('/fonts/Dosis-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Dosis-ExtraBold.woff2') format('woff2'),
+        url('/fonts/Dosis-ExtraBold.woff') format('woff'),
+        url('/fonts/Dosis-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
